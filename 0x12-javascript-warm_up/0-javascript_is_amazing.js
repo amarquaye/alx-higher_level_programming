@@ -1,6 +1,5 @@
 #!/usr/bin/node
 // By Jesse Amarquaye
 
-
-const myVar = "Javascript is amazing";
+const myVar = "JavaScript is amazing";
 console.log(myVar);
