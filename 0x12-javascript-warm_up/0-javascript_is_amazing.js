@@ -1,3 +1,6 @@
 #!/usr/bin/node
-const myVar = 'Javascript is amazing';
+// By Jesse Amarquaye
+
+
+const myVar = "Javascript is amazing";
 console.log(myVar);
